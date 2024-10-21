@@ -1,0 +1,11 @@
+h2 {
+    display: inline-block;
+}
+
+a {
+    padding-left: 3rem;
+}
+
+#marks {
+    display: block;
+}
